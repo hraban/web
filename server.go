@@ -21,8 +21,8 @@ import (
 	"strings"
 	"time"
 
-	"bitbucket.org/kardianos/osext"
 	"code.google.com/p/go.net/websocket"
+	"github.com/kardianos/osext"
 )
 
 type route struct {
