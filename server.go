@@ -21,8 +21,8 @@ import (
 	"strings"
 	"time"
 
-	"code.google.com/p/go.net/websocket"
 	"github.com/kardianos/osext"
+	"golang.org/x/net/websocket"
 )
 
 type route struct {
